@@ -1,0 +1,65 @@
+
+.gafas_rojas{
+    align-items: center;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 10px;
+    padding: 10px;
+    scroll-behavior: smooth;
+}
+.SMILE{
+    color: red;
+    margin: 10px;
+    font-size: 30px;
+}
+.just_dance{
+    color:black;
+    font-family: Impact, sans-serif ;
+    font-size: 23px;
+    align-items: center;
+}
+.apartado_noche1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    max-width: 900px;
+    margin: 10px;
+    padding: 20px;
+}
+.fotos_noche1{
+    display: flex;
+    justify-content: center;
+    object-fit: cover;
+    gap: 10px;
+}
+.fotos_dia2{
+    font-size: 30px;
+    color:blue;
+    margin: 10px;
+}
+.dia_barco{
+    color: greenyellow;
+    font-size: 30px;
+    margin: 10px;
+}
+.fotos_acrópolis{
+    align-items: center;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 10px;
+    padding: 10px;
+    scroll-behavior: smooth;
+}
+.noche_dia3{
+    font-size: 30px;
+    margin: 10px;
+    color: blueviolet
+}
+.dia_compras{
+    color: fuchsia;
+    font-family: Impact, sans-serif ;
+    font-size: 23px;
+    align-items: center;
+}
