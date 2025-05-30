@@ -1,0 +1,32 @@
+.no_duermas{
+    color: blue;
+}
+.imagenes_dormidos{
+    align-items: center;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 10px;
+    padding: 10px;
+    scroll-behavior: smooth;
+}
+.dia_mas_uno{
+    color: fuchsia;
+    font-size: 23px;
+   margin: 10px;
+   text-align: center;
+}
+.masuno{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    max-width: 900px;
+    margin: 10px;
+    padding: 20px;
+}
+.fotos_mas_uno{
+    display: flex;
+    justify-content: center;
+    object-fit: cover;
+    gap: 10px;
+}
